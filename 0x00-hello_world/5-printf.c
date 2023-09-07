@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - Entry point
+ * main - main function prints a c program.
  *
- * Description: A program prints a line with printf.
+ * Deescription: A c program that prints a line with printf function.
  *
  * Return: 0 (Success)
 */
