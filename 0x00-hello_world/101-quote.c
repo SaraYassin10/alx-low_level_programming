@@ -5,7 +5,7 @@
  *
  * Description: print a quote using write function.
  *
- * Return : always 0 (success).
+ * Return: 1 (error).
 */
 
 int main(void)
