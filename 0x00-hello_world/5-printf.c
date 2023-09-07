@@ -1,15 +1,15 @@
 #include <stdio.h>
 
-/*
- * main - main function prints a c program.
+/**
+ * main - Entry point
  *
- * Deescription: A c program that prints a line with printf function.
+ * Description: A c program that prints a line using printf function
  *
  * Return: 0 (Success)
 */
 
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
-	return (0);
+printf("with proper grammar, but the outcome is a piece of art,");
+return (0);
 }
