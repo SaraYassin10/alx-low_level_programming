@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - A program that prints a line whith puts
+ * main - Entry point
+ *
+ * Description: A program that prints a line whith puts
  *
  * Return(0) - success
  */
