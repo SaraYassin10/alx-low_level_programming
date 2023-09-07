@@ -5,8 +5,8 @@
  *
  * Description: A program that prints a line whith puts
  *
- * Return(0) - success
- */
+ * Return: 0 (success)
+*/
 
 int main(void)
 {
