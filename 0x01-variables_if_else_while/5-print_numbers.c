@@ -5,7 +5,7 @@
  *
  * Description: A program
  *
- * Return : 0 (Success)
+ * Return: 0 (Success)
 */
 
 int main(void)
@@ -18,5 +18,6 @@ while (d <= 9)
 	d++;
 }
 printf("\n");
+
 return (0);
 }
